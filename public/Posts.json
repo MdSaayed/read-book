@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "../images/2.png",
+      "title": "Exploring the Universe",
+      "reading_time": 45,
+      "author": "John Smith",
+      "author_img": "../images/profile.png",
+      "posted_date": "2023-09-13",
+      "hashtag": ["space", "astronomy", "science"]
+    },
+    {
+      "id": 5,
+      "cover": "../images/5 (2).png",
+      "title": "Healthy Lifestyle Tips",
+      "reading_time": 25,
+      "author": "Michael Anderson",
+      "author_img": "../images/boy2.png",
+      "posted_date": "2023-09-09",
+      "hashtag": ["health", "wellness", "fitness"]
+    },
+    {
+      "id": 3,
+      "cover": "../images/1.jpg",
+      "title": "Programming Tips and Tricks",
+      "reading_time": 20,
+      "author": "David Lee",
+      "author_img": "../images/girl2.jpg",
+      "posted_date": "2023-09-11",
+      "hashtag": ["programming", "coding", "development"]
+    },
+    {
+      "id": 4,
+      "cover": "../images/5 (1).png",
+      "title": "Traveling on a Budget",
+      "reading_time": 15,
+      "author": "Sarah Brown",
+      "author_img": "../images/boy1.png",
+      "posted_date": "2023-09-10",
+      "hashtag": ["travel", "budget", "adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "../images/3.png",
+      "title": "The Art of Cooking",
+      "reading_time": 30,
+      "author": "Alice Johnson",
+      "author_img": "../images/girl1.jpg",
+      "posted_date": "2023-09-12",
+      "hashtag": ["cooking", "recipes", "food"]
+    }
+  ]
+  
